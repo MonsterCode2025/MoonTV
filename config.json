@@ -84,6 +84,11 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "seedhub":{
+      "api": "https://www.seedhub.cc/api.php/provide/vod",
+      "name": "seedhub",
+      "detail": "https://www.seedhub.cc/"
     }
   }
 }
